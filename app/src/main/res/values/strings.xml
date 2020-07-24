@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translation_description="Image Classification demo app [CHAR_LIMIT=40]">Deteksi Pupuk Apps</string>
+    <string name="ic_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">Device ini tidak di support API Camera2 .</string>
+    <string name="ic_model" translatable="false">Model:</string>
+    <string-array name="ic_models" translatable="false">
+        <item>Float_MobileNet</item>
+    </string-array>
+    <string name="tfe_ic_device" translatable="false">Device:</string>
+    <string-array name="tfe_ic_devices" translatable="false">
+        <item>GPU</item>
+    </string-array>
+
+</resources>
